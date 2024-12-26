@@ -1,0 +1,5 @@
+name: 'Print File Tree'
+description: 'Prints the file tree of the current directory'
+runs:
+  using: 'node12' # 使用Node.js 12作为运行时环境
+  main: 'index.js' # 指定入口文件为index.js
